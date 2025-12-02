@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  orf-finder:
+    build: .
+    image: orf-finder:latest
+    container_name: orf-finder
+    restart: unless-stopped
+    ports:
+      - "5000:5000"  # NAS_PORT:CONTAINER_PORT (NAS 포트를 변경하려면 앞의 숫자를 수정하세요)
+    volumes:
+      - ./history:/app/history  # 히스토리 데이터를 NAS 폴더에 저장
+    environment:
+      - TZ=Asia/Seoul  # 시간대 설정
