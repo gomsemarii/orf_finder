@@ -1,0 +1,7 @@
+TaskID,Timestamp,SequenceSnippet,Length_aa,TopHit,Function,E_value
+1,2025-12-02 16:51:38,MRWARGMIQIFRVDNPMLGP...,96,ref|WP_420219845.1| UDP-forming cellulose synthase catalytic subunit [Komagataeibacter intermedius] >gb|MFW6684202.1| UDP-forming cellulose synthase catalytic subunit [Komagataeibacter intermedius] >gb|XQM67456.1| UDP-forming cellulose synthase catalytic subunit [Komagataeibacter intermedius],Summary not found,7.21856e-36
+2,2025-12-02 16:56:25,MEVANPSDPNGTILLVTGRD...,98,"ref|WP_264996996.1| cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB, partial [Komagataeibacter rhaeticus]",Summary not found,2.16153e-24
+3,2025-12-02 16:56:29,MAIGLMRGLFALAFQHLDII...,225,gb|MDT8870978.1| PilZ domain-containing protein [Komagataeibacter rhaeticus],Summary not found,1.31052e-161
+4,2025-12-02 17:03:28,MRAATGSVLELKPMPLLAVM...,133,ref|WP_227309344.1| hypothetical protein [Acidisoma cellulosilyticum] >gb|MCB8882694.1| hypothetical protein [Acidisoma cellulosilyticum],Summary not found,5.09155
+5,2025-12-02 17:03:49,MKMVSLIALLVFATGAQAAP...,187,gb|MDT8870979.1| cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB [Komagataeibacter rhaeticus],Summary not found,5.94778e-122
+6,2025-12-02 17:03:50,MPAGCGRAGSCPVAACTVPP...,99,gb|MDT8870982.1| hypothetical protein [Komagataeibacter rhaeticus],Summary not found,3.75369e-35
